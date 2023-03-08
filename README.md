@@ -12,7 +12,7 @@ A self-learning frontend engineer and a cross-disciplinary learner from Taiwan
 - [My resume](https://zoewang7512.github.io/MyResume/index.html)
 - [Cart studio | An e-commerce site] to be continued
 - [Ca expense]to be continued
-- [Smart building Dashboard]to be continued
+- [3D Printer Dashboard](https://csb-eq6m45.netlify.app/)
 - [Wake me up | Smart Home]to be continued
 
 ## 👨‍💻Languages and Tools
