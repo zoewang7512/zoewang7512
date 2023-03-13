@@ -9,7 +9,7 @@ A self-learning frontend engineer and a cross-disciplinary learner from Taiwan
 - Codesandbox: https://codesandbox.com/zoework0401
 
 ## ✅ Projects
-- [My resume](https://zoewang7512.github.io/MyResume/index.html)
+- [Personal Portfolio](https://zoewang7512.github.io/MyResume/index.html)
 - [Cart studio | An e-commerce site] to be continued
 - [Ca expense]to be continued
 - [3D Printer Dashboard](https://csb-eq6m45.netlify.app/) | A website for managing 3D printers.
