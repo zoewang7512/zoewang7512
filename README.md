@@ -8,7 +8,7 @@ A self-learning frontend engineer and a cross-disciplinary learner from Taiwan
 - Linkin: https://www.linkedin.com/in/chia-jou-wang/
 
 ## ✅ Projects
-- [Personal Portfolio](https://zoewang7512.github.io/MyResume/index.html)
+- [Personal Portfolio]
 - [Cart studio | An e-commerce site] to be continued
 - [2021 Canada Travelogue](https://zoewang7512.github.io/2021-Canada-Travelogue/) | A website to track travel costs and itineraries from November 2021 to March 2022 in the Canada.
 - [3D Printer Dashboard](https://dp-react-firebase.web.app/) | A website for managing 3D printers.
