@@ -27,4 +27,5 @@ A self-learning frontend engineer and a cross-disciplinary learner from Taiwan
  <a href="https://codesandbox.com/zoework0401" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/332023/code-sandbox-circle.svg" alt="codesandbox" width="30" height="30"/> </a>
 
 ## 💻Softwares
-<img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" alt="visualstudio" width="25" height="25"/> <img src="https://img.icons8.com/color/480/autodesk-fusion-360.png" alt="fusion360" width="25" height="25"/><img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Logo_for_Cura_Software.png" alt="cura" width="25" height="25"/><img src="https://www.print3dd.com/wp-content/uploads/2021/04/RD-Works-V8.jpg"  alt="rdWorks" width="25" height="25"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" alt="visualstudio" width="25" height="25"/> <img src="https://img.icons8.com/color/480/autodesk-fusion-360.png" alt="fusion360" width="25" height="25"/><img width="25"  height="25" alt="cura" src="https://github.com/zoewang7512/zoewang7512/assets/64351360/202e51fb-dbef-491e-826e-97f7ae346b5c">
+<img src="https://www.print3dd.com/wp-content/uploads/2021/04/RD-Works-V8.jpg"  alt="rdWorks" width="25" height="25"/>
