@@ -6,7 +6,6 @@ A self-learning frontend engineer and a cross-disciplinary learner from Taiwan
 ## 🙋 Get in touch
 - Email: zoework0401@gmail.com
 - Linkin: https://www.linkedin.com/in/chia-jou-wang/
-- Codesandbox: https://codesandbox.com/zoework0401
 
 ## ✅ Projects
 - [Personal Portfolio](https://zoewang7512.github.io/MyResume/index.html)
