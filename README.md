@@ -10,8 +10,8 @@ A self-learning frontend engineer and a cross-disciplinary learner from Taiwan
 ## ✅ Projects
 - [Personal Portfolio]
 - [Cart studio | An e-commerce site] to be continued
-- [2021 Canada Travelogue](https://zoewang7512.github.io/2021-Canada-Travelogue/) | A website to track travel costs and itineraries from November 2021 to March 2022 in the Canada.
-- [3D Printer Dashboard](https://dp-react-firebase.web.app/) | A website for managing 3D printers.
+- [2021 Canada Travelogue](https://github.com/zoewang7512/2021-Canada-Travelogue) | A website to track travel costs and itineraries from November 2021 to March 2022 in the Canada.
+- [3D Printer Dashboard](https://github.com/zoewang7512/3D-Printer-Dashboard) | A website for managing 3D printers.
 - [Wake me up | Smart Home]to be continued
 
 ## 👨‍💻Languages and Tools
