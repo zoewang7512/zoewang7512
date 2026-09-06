@@ -8,11 +8,12 @@ A self-learning frontend engineer and a cross-disciplinary learner from Taiwan
 - Linkin: https://www.linkedin.com/in/chia-jou-wang/
 
 ## ✅ Projects
+- [pro5 | Barbershop Appointment System](https://github.com/zoewang7512/pro5) | A Registration-Free Barbershop Booking System and Admin Dashboard.
+- [ai-dream-journal](https://github.com/zoewang7512/ai-dream-journal) | An AI-Powered Dream Diary with Auto-Generated Pencil Sketch Illustrations.
 - [zoe-personal-portfolio](https://github.com/zoewang7512/zoe-personal-portfolio) | A Responsive Portfolio Website Using React and Material-UI.
 - [Letiv | An Ecommerce App UI](https://github.com/zoewang7512/Letiv) | A responsive ecommerce App UI using React JS and TailsindCSS.
 - [2021 Canada Travelogue](https://github.com/zoewang7512/2021-Canada-Travelogue) | A website to track travel costs and itineraries from November 2021 to March 2022 in the Canada.
 - [3D Printer Dashboard](https://github.com/zoewang7512/3D-Printer-Dashboard) | A website for managing 3D printers.
-- [Wake me up | Smart Home]to be continued
 
 ## 👨‍💻Languages 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a> 
